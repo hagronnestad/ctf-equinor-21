@@ -12,6 +12,7 @@ These are my writeups from the CTF. More writeups from the team `Informasjonskon
 - [Crypto/Arbitrary Encoding System](crypto/arbitrary-encoding-system)
 - [Crypto/Really Solid Algebra](crypto/really-solid-algebra)
 - [Web/GreenSalty](web/green-salty)
+- [Web/Notes](web/notes)
 
 ---
 
