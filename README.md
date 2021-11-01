@@ -10,6 +10,7 @@
 These are my writeups from the CTF. More writeups from the team `Informasjonskontroll` may be available here later: https://github.com/informasjonskontroll.
 
 - [Crypto/Arbitrary Encoding System](crypto/arbitrary-encoding-system)
+- [Crypto/Really Solid Algebra](crypto/really-solid-algebra)
 - [Web/GreenSalty](web/green-salty)
 
 ---
