@@ -11,6 +11,7 @@ These are my writeups from the CTF:
 
 - [Crypto/Arbitrary Encoding System](crypto/arbitrary-encoding-system)
 - [Crypto/Really Solid Algebra](crypto/really-solid-algebra)
+- [Shellcoding/shellcoding 0x01](shellcoding/0x01)
 - [Web/GreenSalty](web/green-salty)
 - [Web/Notes](web/notes)
 
