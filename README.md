@@ -15,7 +15,7 @@ These are my writeups from the CTF:
 - [Web/GreenSalty](web/green-salty)
 - [Web/Notes](web/notes)
 
-More writeups from the team `Informasjonskontroll` may be available here later: https://github.com/informasjonskontroll.
+More writeups from the team `Informasjonskontroll` may be available here later: [https://github.com/informasjonskontroll](https://github.com/informasjonskontroll).
 
 ---
 
