@@ -42,13 +42,13 @@ open('flag.png.enc', 'wb').write(ct)
 
 We can see that the image has been encryptet with `AES.MODE_ECB`. `ECB` is not a safe mode for encryption. The classic "ECB Penguin" shows why:
 
-![](ecbpenguin.png "")
+![](ecbpenguin.png)
 
 I think we can see the flag in the encrypted image `flag.png.enc` if we can convert it into a working image.
 
 We can't open the encrypted file as is:
 
-![](imageerr.png "")
+![](imageerr.png)
 
 As we can see in the `aes.py` script, only the pixel data has been encrypted, but the encrypted file doesn't contain an image header.
 
@@ -76,7 +76,7 @@ $ python3 createflagimg.py
 
 And look at the created `flag.png`:
 
-![](flag.png "")
+![](flag.png)
 
 The flag is still readable even if the image data is encrypted!
 
