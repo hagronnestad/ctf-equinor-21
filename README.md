@@ -1,7 +1,7 @@
 # Equinor CTF 2021
 > 2021-10-29
 
-![](00.png "")
+![](00.png)
 
 ---
 
@@ -21,5 +21,5 @@ More writeups from the team `Informasjonskontroll` may be available here later: 
 
 ## Summary
 
-![](01.png "")
-![](02.png "")
+![](01.png)
+![](02.png)
