@@ -18,16 +18,16 @@ Web site at: https://notes.io.ept.gg/
 
 Register user and log in. 
 
-![](01.png "")
+![](01.png)
 
 Create new note.
 
-![](02.png "")
+![](02.png)
 
 Open note. URL is now i.e.: `https://notes.io.ept.gg/note?noteid=4`
 
 Change `noteid` to `1`.
 
-![](03.png "")
+![](03.png)
 
 We can read other users notes.
