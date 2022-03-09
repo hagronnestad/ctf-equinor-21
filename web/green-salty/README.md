@@ -16,22 +16,22 @@
 
 When we go to `greensalt.io.ept.gg` we find a login page.
 
-![](01.png "")
+![](01.png)
 
 After registering a new user with `a` as username and password, we can log in.
 
-![](02.png "")
+![](02.png)
 
 We look around the site and find the settings page which we can't access.
 
-![](03.png "")
+![](03.png)
 
 
 ## Cookies and Session
 
 Taking a look at the cookies in the developer tools we see the folling:
 
-![](04.png "")
+![](04.png)
 
 The `Role`-cookie seems interesting. The cookie data looks like `base64` encoded data.
 
@@ -105,11 +105,11 @@ b'gASVNgAAAAAAAACMA2FwcJSMCFVzZXJUeXBllJOUKYGUfZQojARyb2xllIwFQWRtaW6UjARuYW1llI
 
 Let's take the new cookie data; `gASVNgAAAAAAAACMA2FwcJSMCFVzZXJUeXBllJOUKYGUfZQojARyb2xllIwFQWRtaW6UjARuYW1llIwBYZR1Yi4=` and replace the cookie in the developer tools.
 
-![](05.png "")
+![](05.png)
 
 Now click `Settings` again. We can see the follwing at `https://greensalt.io.ept.gg/settings.html`:
 
-![](06.png "")
+![](06.png)
 
 ## Flag
 
